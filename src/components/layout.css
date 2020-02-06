@@ -564,3 +564,7 @@ ul.contact li a.icon-rss:before { background: #F2600B; }
   background: red;
 }
 
+.contacts-block {
+  text-align: center;
+  color: #fff;
+}

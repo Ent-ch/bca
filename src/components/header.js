@@ -36,6 +36,11 @@ const Header = ({ siteTitle }) => {
             </Link>
           </li>)}
       </ul>
+      <div className="contacts-block">
+          Телефони для довідок: <br />
+          (0472) 63-68-35 <br />
+          (0472) 63-65-77
+      </div>
     </div>
   </div>
 )}

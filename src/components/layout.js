@@ -31,7 +31,7 @@ const Layout = ({ children }) => {
         </div> */}
       </div>
       <div id="copyright">
-        <span>© {data.site.siteMetadata.title}. All rights reserved. </span>
+        <span>© 2020 {data.site.siteMetadata.title}. Всі права захищено. </span>
       </div>
     </div>
   </div>

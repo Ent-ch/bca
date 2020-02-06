@@ -3,11 +3,11 @@ const { createFilePath } = require(`gatsby-source-filesystem`)
 const fs = require('fs');
 
 exports.onPostBuild = function() {
-  fs.renameSync(path.join(__dirname, 'public'), path.join(__dirname, 'docs'));
+  // fs.renameSync(path.join(__dirname, 'public'), path.join(__dirname, 'docs'));
 
-  fs.mkdirSync(path.join(__dirname, 'public'));
+  // fs.mkdirSync(path.join(__dirname, 'public'));
 
-  fs.renameSync(path.join(__dirname, 'docs'), path.join(__dirname, 'public'));
+  // fs.renameSync(path.join(__dirname, 'docs'), path.join(__dirname, 'public'));
 }
 
 exports.onCreateNode = ({ node, getNode, actions }) => {
