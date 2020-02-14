@@ -568,3 +568,66 @@ ul.contact li a.icon-rss:before { background: #F2600B; }
   text-align: center;
   color: #fff;
 }
+
+.gmap {
+  width: 90%;
+  height: 30rem;
+}
+
+@media (max-width: 700px) {
+  .container {
+    width: 100%;
+  }
+
+  #header {
+    position: sticky;
+    width: 100%;
+    height: 75px;
+    float: none;
+    padding: 1rem 0;
+  }
+
+  #main {
+    width: 100%;
+    padding: 10px;
+    /* float: none; */
+
+  }
+
+  p {
+    padding: 10px;
+  }
+
+  h1 {
+    font-size: 1.1rem;
+  }
+
+  #logo {
+    margin: 1px;
+  }
+
+  #menu {
+    overflow-x: scroll;
+  }
+  
+  #menu ul {
+    display: flex;
+    font-size: 1rem;
+  }
+
+  #menu ul li a{
+    display: flex;
+    font-size: 12px;
+  }
+
+  .contacts-block {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #2a2a2a;
+    height: 50px;
+    font-size: 12px;
+    left: 0;
+  }
+
+}
