@@ -11,8 +11,8 @@ date: "2017-02-20"
 
 Доступні ціни в регіоні. Авансова оплата навчання. Студентам знижка 10%.
 
-<img class="gmap" src="images/school.png"/>
+<img class="gmap" src="images/school.jpg"/>
 
 Також заняття пороводяться на базі школи №3, за адресою Байди Вишнивецького 58
 
-<img class="gmap" src="images/school2.png"/>
+<img class="gmap" src="images/school2.jpg"/>
