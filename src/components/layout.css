@@ -567,6 +567,8 @@ ul.contact li a.icon-rss:before { background: #F2600B; }
 .contacts-block {
   text-align: center;
   color: #fff;
+  display: flex;
+  flex-direction: column;
 }
 
 .gmap {
@@ -623,11 +625,17 @@ ul.contact li a.icon-rss:before { background: #F2600B; }
   .contacts-block {
     position: fixed;
     bottom: 0;
-    width: 100%;
+    width: 90%;
     background-color: #2a2a2a;
     height: 50px;
     font-size: 12px;
     left: 0;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 0 15px;
   }
-
+  .contacts-block span {
+    padding: 5px;
+  }
 }
