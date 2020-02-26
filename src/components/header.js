@@ -38,8 +38,8 @@ const Header = ({ siteTitle }) => {
       </ul>
       <div className="contacts-block">
           <span>Телефони для довідок:</span>
-          <span>(0472) 63-68-35</span>
-          <span>(0472) 63-65-77</span>
+          <span>(093) 035-78-94</span>
+          <span>(066) 882-42-94</span>
           <span>(098) 027-85-25</span>
       </div>
     </div>
