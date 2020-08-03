@@ -40,7 +40,7 @@ const Header = ({ siteTitle }) => {
           <span>Телефони для довідок:</span>
           <span>(093) 035-78-94</span>
           <span>(066) 882-42-94</span>
-          <span>(098) 027-85-25</span>
+          <span>(067) 364-64-16</span>
       </div>
     </div>
   </div>
