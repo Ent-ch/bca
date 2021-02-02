@@ -25,7 +25,6 @@ const Header = ({ siteTitle }) => {
   <div id="header">
     <div id="logo">
       <h1><Link to="/">{siteTitle}</Link></h1>
-      {/* <span>Design by <a href="http://templated.co" rel="nofollow">TEMPLATED</a></span> */}
     </div>
     <div id="menu">
       <ul>
